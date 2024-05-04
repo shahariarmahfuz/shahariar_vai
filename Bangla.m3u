@@ -1,4 +1,3 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla", NTV
-https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 tvg-logo="http://logoexample.com/logo.jpg" group-title="বাংলা", বিটিভি
+http://tv.dugdugilive.com:8080/0ne$ky23/NTV/index.m3u8
