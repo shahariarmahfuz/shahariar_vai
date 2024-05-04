@@ -1,4 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo=”https://images.app.goo.gl/qE9mtEy9Dyi1ehjw6” group-title=”Bangla”, TV
+#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/200px-NTV_%28Bangladesh%29_logo.svg.png” group-title=”Bangla”, KHELA TV
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
